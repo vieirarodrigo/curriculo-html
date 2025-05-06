@@ -9,7 +9,8 @@ Trata-se de um desafio prático onde criei meu próprio currículo utilizando ap
 - HTML5
 
 ## 📸 Captura de Tela
-*(Adicione um print do projeto aqui ou link de visualização se subir no GitHub Pages)*
+![Currículo HTML](./images/readme.png)
+https://vieirarodrigo.github.io/curriculo-html/
 
 ## 🚀 Como visualizar
 Você pode clonar este repositório ou abrir o arquivo `index.html` diretamente no navegador.
